@@ -1,0 +1,5 @@
+services:
+     alpinesshd:
+    build: .
+    ports:
+    - "22:22"
