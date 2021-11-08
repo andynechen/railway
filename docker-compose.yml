@@ -2,4 +2,4 @@ services:
      alpinesshd:
     build: .
     ports:
-    - "22:22"
+    - "8000:22"
